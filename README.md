@@ -232,5 +232,20 @@ public class ContentManager {
     }
 }
 
+**Практическая работа 2**
+
+
+![image](https://github.com/user-attachments/assets/cefbfbc5-4dc4-4ea7-828f-3e5e757da10d)
+Рисунок 1 – Диаграмма user flow для роли «Маркетолог»
+
+![image](https://github.com/user-attachments/assets/52cd4116-8ce6-4eff-9e21-dc23e4d40af6)
+Рисунок 2 – Диаграмма user flow для роли «Администратор»
+
+![image](https://github.com/user-attachments/assets/7bffe265-f67b-4ef8-8edd-7e294375d6cd)
+Рисунок 3 – Диаграмма user flow для роли «Аналитик»
+
+![image](https://github.com/user-attachments/assets/1c086dab-f477-4b80-be20-d8d795eebb70)
+Рисунок 4 – Диаграмма user flow для роли «Пользователь
+
 
 
